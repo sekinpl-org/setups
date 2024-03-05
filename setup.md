@@ -20,7 +20,7 @@ Mic : Fifine T669
 Sub Mic : Joytron P5
 Earbuds : TRN MT1 Pro (No Mic)  
 Drawing Tablet : Wacom CTL-490
-iPad (For Stream Deck) : Apple iPad Mini 2
+iPad (For Sub Monitor) : Apple iPad Mini 2
   
   
 # Programs | 프로그램
